@@ -1,3 +1,5 @@
+package br.com;
+
 import br.com.model.Cat;
 
 public class Main {
